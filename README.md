@@ -14,6 +14,18 @@ writing n-dimensional datasets. One can read grid data from files,
 make them available as a `Grid`_ object, and write out the data again.
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/griddataformats-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/griddataformats-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/griddataformats-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/griddataformats-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/griddataformats-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/griddataformats-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/griddataformats/badges/version.svg)](https://anaconda.org/conda-forge/griddataformats)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/griddataformats/badges/downloads.svg)](https://anaconda.org/conda-forge/griddataformats)
+
 Installing griddataformats
 ==========================
 
@@ -34,7 +46,6 @@ It is possible to list all of the versions of `griddataformats` available on you
 ```
 conda search griddataformats --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -70,18 +81,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/griddataformats-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/griddataformats-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/griddataformats-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/griddataformats-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/griddataformats-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/griddataformats-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/griddataformats/badges/version.svg)](https://anaconda.org/conda-forge/griddataformats)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/griddataformats/badges/downloads.svg)](https://anaconda.org/conda-forge/griddataformats)
 
 
 Updating griddataformats-feedstock
