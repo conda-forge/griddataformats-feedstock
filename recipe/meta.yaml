@@ -1,6 +1,6 @@
 {% set name = "GridDataFormats" %}
-{% set version = "0.3.3" %}
-{% set sha256 = "938f0efcb3bc2f58ec85048b933942da8a52c134170acc97cb095f09d3698fbd" %}
+{% set version = "0.4.0" %}
+{% set sha256 = "f81d6b75aa7ebd9e8b64e14558c2d2583a0589829382beb4ef69860110261512" %}
 
 package:
   name: {{ name|lower }}
@@ -13,6 +13,7 @@ source:
 
 build:
   number: 0
+  noarch: python
   script: python setup.py install --single-version-externally-managed --record record.txt
 
 requirements:
