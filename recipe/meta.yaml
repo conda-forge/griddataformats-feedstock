@@ -32,7 +32,7 @@ test:
     - gridData
 
 about:
-  home: http://github.com/MDAnalysis/GridDataFormats
+  home: https://github.com/MDAnalysis/GridDataFormats
   license: LGPLv3
   license_file: COPYING.LESSER
   summary: 'Reading and writing of data on regular grids in Python'
@@ -40,7 +40,7 @@ about:
     The gridDataFormats package provides classes to unify reading and
     writing n-dimensional datasets. One can read grid data from files,
     make them available as a `Grid`_ object, and write out the data again.
-  doc_url: http://www.mdanalysis.org/GridDataFormats/
+  doc_url: https://www.mdanalysis.org/GridDataFormats/
   dev_url: https://github.com/MDAnalysis/GridDataFormats
 
 extra:
