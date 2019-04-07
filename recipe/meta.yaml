@@ -1,6 +1,6 @@
 {% set name = "GridDataFormats" %}
-{% set version = "0.4.0" %}
-{% set sha256 = "f81d6b75aa7ebd9e8b64e14558c2d2583a0589829382beb4ef69860110261512" %}
+{% set version = "0.4.1" %}
+{% set sha256 = "b362662c2dc475e2a3895fe044eaaa9a707bd660fd109a63dac84a47236690a3" %}
 
 package:
   name: {{ name|lower }}
