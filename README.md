@@ -11,7 +11,7 @@ Summary: Reading and writing of data on regular grids in Python
 
 The gridDataFormats package provides classes to unify reading and
 writing n-dimensional datasets. One can read grid data from files,
-make them available as a `Grid`_ object, and write out the data again.
+make them available as a `Grid` object, and write out the data again.
 
 
 Current build status
