@@ -30,7 +30,7 @@ test:
 
 about:
   home: https://github.com/MDAnalysis/GridDataFormats
-  license: LGPL-3.0
+  license: LGPL-3.0-or-later
   license_file: COPYING.LESSER
   summary: Reading and writing of data on regular grids in Python
   description: |
