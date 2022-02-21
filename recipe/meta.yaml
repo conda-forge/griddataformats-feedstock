@@ -23,6 +23,7 @@ requirements:
     - six
     - numpy >=1.0.3
     - scipy
+    - mrcfile
 
 test:
   imports:
