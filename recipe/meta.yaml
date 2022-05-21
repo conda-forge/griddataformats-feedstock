@@ -1,5 +1,5 @@
 {% set name = "GridDataFormats" %}
-{% set version = "0.7.0" %}
+{% set version = "1.0.0" %}
 
 package:
   name: griddataformats
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/G/GridDataFormats/GridDataFormats-{{ version }}.tar.gz
-  sha256: 021e9505f2f491d0b1ba7045b2912fdb797e5982a942f93f4e4714900b7d29bc
+  sha256: d17b62fc9607b263c26614502a86db9a2c4c9c7c6341b6bf850732d78218cb20
 
 build:
   number: 0
