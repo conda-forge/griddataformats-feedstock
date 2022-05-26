@@ -16,12 +16,11 @@ build:
 
 requirements:
   host:
-    - python >=2.7,<3|>=3.5
+    - python >=3.8
     - pip
   run:
-    - python >=2.7,<3|>=3.5
-    - six
-    - numpy >=1.0.3
+    - python >=3.8
+    - numpy >=1.19
     - scipy
     - mrcfile
 
@@ -46,3 +45,4 @@ extra:
     - kain88-de
     - orbeckst
     - richardjgowers
+    - IAlibay
